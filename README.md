@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 📚 I'm currently 3rd year student of the Faculty of Computer Science<br>🌟 iOS Development: Skilled in SwiftUI,Swift to create mobile apps.<br>💻 Web Development: Firendly with JavaScript, HTML/CSS, React/Next.js, PHP and Node.js for responsive and dynamic websites.<br>🎯 Focused on: Building scalable, user-friendly, and maintainable applications.
 
 
